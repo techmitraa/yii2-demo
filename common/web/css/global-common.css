@@ -1,0 +1,36 @@
+/*
+Validation
+*/
+.has-error .help-block{
+	color: #ff5252 !important;
+}
+.has-success .help-block{
+	color: #11c15b !important;
+}
+/*
+Pagination
+*/
+.pagination{float:right;margin:0;}
+/*
+General
+*/
+.inactiveLink {
+   pointer-events: none;
+   cursor: default;
+   opacity: 0.5;
+}
+/*
+FIXED IMAGE SIZE
+*/
+.fixed-image{
+	width: 150px !important;
+	height: 150px !important;
+}
+/*
+SITE LOGO
+*/
+.back-end-site-logo{
+    width: 190px;
+    height: 56px !important;
+    background-color: white;
+}
